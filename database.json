@@ -1,0 +1,32 @@
+{
+  "users": {
+    "994402977958@s.whatsapp.net": {
+      "pushname": "Lexmoon",
+      "balance": 0,
+      "level": 0,
+      "exp": 0,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6283102176419@s.whatsapp.net": {
+      "pushname": "My Self",
+      "balance": 0,
+      "level": 0,
+      "exp": 0,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6283184665399@s.whatsapp.net": {
+      "pushname": "Galeh",
+      "balance": 0,
+      "level": 0,
+      "exp": 0,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "sticker": {}
+}

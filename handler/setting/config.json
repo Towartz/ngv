@@ -1,0 +1,34 @@
+{
+    "packName": "Lexmoon",
+    "reason": "Sedang Sibuk",
+    "authName": "@Lexmoon",
+    "handler": "./index.js",
+    "session": "./handler/session/session.json",
+    "numberNon": "6283102176419",
+    "botNumberNon": "6283102176419",
+    "ownerNumber": [
+        "6283102176419@s.whatsapp.net",
+        "994402977958@s.whatsapp.net"
+    ],
+   "ownerTunggal": "6283102176419@s.whatsapp.net",
+   "style" : {
+   "satu":"•",
+   "dua":"⎙"
+   },
+   "this": {
+   "ponsel": "ponsel",
+   "compossing": "```",
+   "shp": "⬡",
+   "bulat": "⭕", 
+   "silang": "❌", 
+   "panah": "👈",
+   "undefined": "-",
+   "version": {
+   "bot": "v 19. 3. 6",
+   "baileys" : "v 3.5.2"
+   }
+     },
+   "ownernama": "Towartz",
+   "revokedd": "6283102176419-1629287518@g.us",
+   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+     }
