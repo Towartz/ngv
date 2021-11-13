@@ -67,9 +67,9 @@
 
 ## `SETTING`
 
-- Owner Number [`Here`](https://github.com/Animeseleraku/BOTZV2/blob/master/settings.json#L4)
-- Owner Name [`Here`](https://github.com/Animeseleraku/BOTZV2/blob/master/settings.json#L13)
-- Bot Name [`Here`](https://github.com/Animeseleraku/BOTZV2/blob/master/settings.json#L14)
+- Owner Number [`Here`](https://github.com/Towartz/ngv/blob/main/handler/setting/config.json)
+- Owner Name [`Here`](https://github.com/Towartz/ngv/blob/main/handler/setting/config.json)
+- Bot Name [`Here`](https://github.com/Towartz/ngv/blob/main/handler/setting/config.json)
 
 ## `THANKS TO`
 
