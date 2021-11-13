@@ -77,7 +77,7 @@
 - [`Rimuru Botz`]()
 - [`Loki Killers`]()
 - [`Ara-Ara`]()
-- [`Towartz`]()
+- [`Towartz`](https://github.com/Towartz)
 - [`All creator bot`]()
 
 ## ```COFFEE```
